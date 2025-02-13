@@ -7,13 +7,9 @@
 
 - 🏫I'm currently Studing Intermediate in **Computer Science.**
 
-- 🔭 I’m currently working as intern at **Code Alpha.**
-
 - 🎓I am currently learning **Web Development From Saylani Mass IT Training Program (SMIT).**
 
-- 🔭 I’m currently working as intern at **Prodigy Infotech.**
-
-- 🌱 I’m currently learning **Javascript.**
+- 🌱 I’m currently learning **React.**
 
 - 📫 How to reach me **fizzasahar44@gmail.com**
 
